@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm sumin
-#### FrontEnd Developer
+#### Software Developer
 
 - 👨‍💼 I'm currently working as a front-end developer focusing on web applications
 - 📚 I'm passionate about learning new skills and technologies
