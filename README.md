@@ -41,12 +41,6 @@
   ![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![Slack](https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-  ### What I'm into right now
-
-  - Voice-first UX with **OpenAI Realtime** over WebRTC (SDP handshake, data channel events, mic gating)
-  - Scheduled, push-driven flows: Supabase `pg_cron` + `pg_net` → Hono → Expo Push → fullscreen incoming-call UI
-  - Type-safe full-stack TypeScript: shared types from Hono routes through Expo Router typed routes
-  - Adapting prompts to learner level (CEFR bands) end-to-end — voice and text chat in one persona model
 
   ### How to reach me
 
