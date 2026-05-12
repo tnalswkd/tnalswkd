@@ -4,7 +4,6 @@
 
   - 👨‍💻 Building production web and cross-platform mobile apps end-to-end
   - 📱 React Native + Expo on mobile, Next.js on web, all backed by TypeScript everywhere
-  - 🎙️  Currently shipping a Korean/English/Japanese AI tutoring app — voice (WebRTC + OpenAI Realtime), scheduled push-driven calls, level-adaptive chat
   - 🌏 Based in Korea 🇰🇷
 
   ### Main Tech Stack
