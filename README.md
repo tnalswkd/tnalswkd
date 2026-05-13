@@ -4,7 +4,7 @@
 
   - 👨‍💻 Building production web and cross-platform mobile apps end-to-end
   - 📱 React Native + Expo on mobile, Next.js on web, all backed by TypeScript everywhere
-  - 🌏 Based in Korea 🇰🇷
+  - 🌏 Based & working in Korea 🇰🇷
 
   ### Main Tech Stack
 
